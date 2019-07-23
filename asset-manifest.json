@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/shitty-todo/static/js/main.70a6cc0b.chunk.js",
+    "main.js.map": "/shitty-todo/static/js/main.70a6cc0b.chunk.js.map",
+    "runtime~main.js": "/shitty-todo/static/js/runtime~main.0f99d884.js",
+    "runtime~main.js.map": "/shitty-todo/static/js/runtime~main.0f99d884.js.map",
+    "static/js/2.3e8c0afe.chunk.js": "/shitty-todo/static/js/2.3e8c0afe.chunk.js",
+    "static/js/2.3e8c0afe.chunk.js.map": "/shitty-todo/static/js/2.3e8c0afe.chunk.js.map",
+    "index.html": "/shitty-todo/index.html",
+    "precache-manifest.9aa10397aa11c279b40858f5415e2aae.js": "/shitty-todo/precache-manifest.9aa10397aa11c279b40858f5415e2aae.js",
+    "service-worker.js": "/shitty-todo/service-worker.js"
+  }
+}
